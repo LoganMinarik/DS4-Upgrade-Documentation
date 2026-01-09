@@ -13,7 +13,7 @@ welcome to my guide on how I upgraded my stock DS4 PS4 Pro 055 model
   * You MIGHT break your controller if not done carefully
   * I am not held responsible for any damages YOU do to your device by modding it
   * This is only a rough documentation on what I did to mine so others can be more informed on if they want to take right to repair into their own hands
-  * This documentation is as of 1/8/206 is in its rough writing period. 
+  * This documentation is as of 1/8/2026 is in its rough writing period. 
 
 # #1 Get yout Controller and parts
 I bought my parts off Amazon.com, I will link the parts in this documentation
@@ -21,9 +21,12 @@ I bought my parts off Amazon.com, I will link the parts in this documentation
 ![RUID328741f0e7c3489fbd15f17a7aeb12b9.jpg](images/RUID328741f0e7c3489fbd15f17a7aeb12b9.jpg)
 
 # #2 Unscrew
+There will be 4 screws on the outside
+1 on the inside (but we wont need to unscrew that unless you break your ribbon cable to your trackpad)
 ![RUID525e250b52324c5d9fb66e3550d77035.jpg](images/RUID525e250b52324c5d9fb66e3550d77035.jpg)
 
 # #3 Remove the back plate and cable
+Be careful, due to this is where a ribbon cable will be
 ![RUIDfd0eab04b6e7483ca0173e415fb3e90a.jpg](images/RUIDfd0eab04b6e7483ca0173e415fb3e90a.jpg)
 
 # Note
